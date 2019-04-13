@@ -1,0 +1,47 @@
+db.productos.insert({nombre:'Barra de Pan', precio:0.75})
+WriteResult({ "nInserted" : 1 })
+> db.productos.insert({nombre:'Zumo de naranja', precio:1.00})
+WriteResult({ "nInserted" : 1 })
+> db.productos.insert({nombre:'Leche', precio:1.20})
+WriteResult({ "nInserted" : 1 })
+> db.productos.insert({nombre:'Queso', precio:2})
+WriteResult({ "nInserted" : 1 })
+> db.productos.insert({nombre:'Mantequilla', precio:1.50})
+WriteResult({ "nInserted" : 1 })
+> db.productos.find()
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fda"), "nombre" : "Barra de Pan", "precio" : 0.75 }
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdb"), "nombre" : "Zumo de naranja", "precio" : 1 }
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdc"), "nombre" : "Leche", "precio" : 1.2 }
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdd"), "nombre" : "Queso", "precio" : 2 }
+{ "_id" : ObjectId("5ca9932a87a6b585d4c13fde"), "nombre" : "Mantequilla", "precio" : 1.5 }
+> db.productos.find({precio:1})
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdb"), "nombre" : "Zumo de naranja", "precio" : 1 }
+> db.productos.find({precio:{$lte:1}})
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fda"), "nombre" : "Barra de Pan", "precio" : 0.75 }
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdb"), "nombre" : "Zumo de naranja", "precio" : 1 }
+> db.productos.find({precio:{$lt:2}})
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fda"), "nombre" : "Barra de Pan", "precio" : 0.75 }
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdb"), "nombre" : "Zumo de naranja", "precio" : 1 }
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdc"), "nombre" : "Leche", "precio" : 1.2 }
+{ "_id" : ObjectId("5ca9932a87a6b585d4c13fde"), "nombre" : "Mantequilla", "precio" : 1.5 }
+> db.productos.find({precio:{$gt:2}})
+> db.productos.find({precio:{$gt:1}})
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdc"), "nombre" : "Leche", "precio" : 1.2 }
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdd"), "nombre" : "Queso", "precio" : 2 }
+{ "_id" : ObjectId("5ca9932a87a6b585d4c13fde"), "nombre" : "Mantequilla", "precio" : 1.5 }
+> db.productos.find({$and:[{precio:{$gt:1}},{precio:{$lt:2}}]},{_id:0,nombre:1})
+{ "nombre" : "Leche" }
+{ "nombre" : "Mantequilla" }
+> db.productos.find().sort({precio:-1}).limit(1)
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdd"), "nombre" : "Queso", "precio" : 2 }
+> db.productos.update({precio:{$gte:2}},{$set:{precio:3},{multi:true})
+... 
+... 
+> 
+> db.productos.find().sort({precio:-1}).limit(1)
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdd"), "nombre" : "Queso", "precio" : 2 }
+> db.productos.update({precio:{$gte:2}},{$set:{precio:3.00}},{multi:true})
+WriteResult({ "nMatched" : 1, "nUpserted" : 0, "nModified" : 1 })
+> db.productos.find().sort({precio:-1}).limit(1)
+{ "_id" : ObjectId("5ca9932887a6b585d4c13fdd"), "nombre" : "Queso", "precio" : 3 }
+> 

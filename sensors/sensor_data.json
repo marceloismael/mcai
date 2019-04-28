@@ -1,0 +1,6903 @@
+ [
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.803966,
+    "lon": -16.86986118,
+    "temperature": 24,
+    "humidity": 0.9,
+    "noise": -20,
+    "light": 22,
+    "rain": 136,
+    "windspeed": 12.93,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.86986118,
+     0.803966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.282788,
+    "lon": -39.10858619,
+    "temperature": 18,
+    "humidity": 0.65,
+    "noise": -29,
+    "light": 9,
+    "rain": 623,
+    "windspeed": 4.34,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -39.10858619,
+     0.282788
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.11073499999999999,
+    "lon": -22.36494713,
+    "temperature": 18,
+    "humidity": 0.2,
+    "noise": -44,
+    "light": 3,
+    "rain": 419,
+    "windspeed": 24.31,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -22.36494713,
+     0.11073499999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.392861,
+    "lon": -15.97423974,
+    "temperature": 16,
+    "humidity": 0.18,
+    "noise": -40,
+    "light": 32,
+    "rain": 455,
+    "windspeed": 53.03,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -15.97423974,
+     0.392861
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.174959,
+    "lon": -19.33719957,
+    "temperature": 25,
+    "humidity": 0.6,
+    "noise": -20,
+    "light": 27,
+    "rain": 533,
+    "windspeed": 12.55,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -19.33719957,
+     0.174959
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.970454,
+    "lon": -9.035935687,
+    "temperature": 18,
+    "humidity": 0.62,
+    "noise": -17,
+    "light": 9,
+    "rain": 321,
+    "windspeed": 0.63,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.035935687,
+     0.970454
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.553525,
+    "lon": -9.774163702000001,
+    "temperature": 22,
+    "humidity": 0.65,
+    "noise": -50,
+    "light": 18,
+    "rain": 460,
+    "windspeed": 42.82,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.774163702000001,
+     0.553525
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.847217,
+    "lon": -36.77580939,
+    "temperature": 16,
+    "humidity": 0.97,
+    "noise": -41,
+    "light": 11,
+    "rain": 669,
+    "windspeed": 16.25,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -36.77580939,
+     0.847217
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.187356,
+    "lon": -9.746358724,
+    "temperature": 24,
+    "humidity": 0.79,
+    "noise": -14,
+    "light": 30,
+    "rain": 251,
+    "windspeed": 2.42,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.746358724,
+     0.187356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.39762800000000004,
+    "lon": -4.425118063999999,
+    "temperature": 16,
+    "humidity": 0.55,
+    "noise": -18,
+    "light": 27,
+    "rain": 177,
+    "windspeed": 5.62,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.425118063999999,
+     0.39762800000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.734111,
+    "lon": -25.37050266,
+    "temperature": 14,
+    "humidity": 0.17,
+    "noise": -34,
+    "light": 7,
+    "rain": 144,
+    "windspeed": 2.91,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -25.37050266,
+     0.734111
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.176422,
+    "lon": -12.40625847,
+    "temperature": 16,
+    "humidity": 0.29,
+    "noise": -12,
+    "light": 0,
+    "rain": 615,
+    "windspeed": 1.33,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.40625847,
+     0.176422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.415922,
+    "lon": -12.21990649,
+    "temperature": 12,
+    "humidity": 0.83,
+    "noise": -12,
+    "light": 9,
+    "rain": 597,
+    "windspeed": 44.17,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.21990649,
+     0.415922
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.0731,
+    "lon": -21.33273526,
+    "temperature": 22,
+    "humidity": 0.19,
+    "noise": -45,
+    "light": 23,
+    "rain": 626,
+    "windspeed": 4.12,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.33273526,
+     0.0731
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.742204,
+    "lon": -8.991076935,
+    "temperature": 12,
+    "humidity": 0.9,
+    "noise": -8,
+    "light": 14,
+    "rain": 176,
+    "windspeed": 26.26,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.991076935,
+     0.742204
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.893682,
+    "lon": -6.26421839,
+    "temperature": 15,
+    "humidity": 0.88,
+    "noise": -39,
+    "light": 7,
+    "rain": 305,
+    "windspeed": 2.38,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.26421839,
+     0.893682
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.41243100000000005,
+    "lon": -36.18374124,
+    "temperature": 20,
+    "humidity": 0.35,
+    "noise": -19,
+    "light": 26,
+    "rain": 597,
+    "windspeed": 8.74,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -36.18374124,
+     0.41243100000000005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.6171399999999999,
+    "lon": -0.066236161,
+    "temperature": 20,
+    "humidity": 0.96,
+    "noise": -20,
+    "light": 22,
+    "rain": 602,
+    "windspeed": 8.71,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.066236161,
+     0.6171399999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.986662,
+    "lon": -19.44939603,
+    "temperature": 21,
+    "humidity": 0.38,
+    "noise": -42,
+    "light": 22,
+    "rain": 244,
+    "windspeed": 0.2,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -19.44939603,
+     0.986662
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.158708,
+    "lon": -16.84333108,
+    "temperature": 21,
+    "humidity": 0.53,
+    "noise": -37,
+    "light": 21,
+    "rain": 577,
+    "windspeed": 7.34,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.84333108,
+     0.158708
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.921262,
+    "lon": -11.99175691,
+    "temperature": 23,
+    "humidity": 0.35,
+    "noise": -31,
+    "light": 17,
+    "rain": 431,
+    "windspeed": 39.1,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -11.99175691,
+     0.921262
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.990025,
+    "lon": -8.76898037,
+    "temperature": 18,
+    "humidity": 0.46,
+    "noise": -8,
+    "light": 18,
+    "rain": 395,
+    "windspeed": 0.76,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.76898037,
+     0.990025
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.534492,
+    "lon": -10.8515843,
+    "temperature": 22,
+    "humidity": 0.59,
+    "noise": -16,
+    "light": 5,
+    "rain": 352,
+    "windspeed": 7.2,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.8515843,
+     0.534492
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.158333,
+    "lon": -13.48802183,
+    "temperature": 24,
+    "humidity": 0.59,
+    "noise": -37,
+    "light": 23,
+    "rain": 359,
+    "windspeed": 0.24,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.48802183,
+     0.158333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.10533800000000001,
+    "lon": -6.5232272920000005,
+    "temperature": 24,
+    "humidity": 0.24,
+    "noise": -50,
+    "light": 15,
+    "rain": 281,
+    "windspeed": 12.7,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.5232272920000005,
+     0.10533800000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.422597,
+    "lon": -4.416652786,
+    "temperature": 22,
+    "humidity": 0.25,
+    "noise": -23,
+    "light": 17,
+    "rain": 475,
+    "windspeed": 58.09,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.416652786,
+     0.422597
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.30030999999999997,
+    "lon": -11.23444622,
+    "temperature": 17,
+    "humidity": 0.39,
+    "noise": -35,
+    "light": 30,
+    "rain": 625,
+    "windspeed": 23.13,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -11.23444622,
+     0.30030999999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.89889,
+    "lon": -9.366029494,
+    "temperature": 20,
+    "humidity": 0.29,
+    "noise": -5,
+    "light": 9,
+    "rain": 603,
+    "windspeed": 9.62,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.366029494,
+     0.89889
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.18240499999999998,
+    "lon": -0.861758294,
+    "temperature": 25,
+    "humidity": 0.42,
+    "noise": -24,
+    "light": 14,
+    "rain": 316,
+    "windspeed": 31.84,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.861758294,
+     0.18240499999999998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.9737870000000001,
+    "lon": -34.51553097,
+    "temperature": 16,
+    "humidity": 0.81,
+    "noise": -45,
+    "light": 32,
+    "rain": 444,
+    "windspeed": 10.8,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -34.51553097,
+     0.9737870000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.37494099999999997,
+    "lon": -42.81608447,
+    "temperature": 24,
+    "humidity": 0.17,
+    "noise": -45,
+    "light": 28,
+    "rain": 644,
+    "windspeed": 16.96,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -42.81608447,
+     0.37494099999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.17288299999999998,
+    "lon": -62.63562953,
+    "temperature": 16,
+    "humidity": 0.09,
+    "noise": -17,
+    "light": 2,
+    "rain": 458,
+    "windspeed": 11.55,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -62.63562953,
+     0.17288299999999998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.060101999999999996,
+    "lon": -45.53522612,
+    "temperature": 17,
+    "humidity": 0.86,
+    "noise": -39,
+    "light": 5,
+    "rain": 485,
+    "windspeed": 56.07,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -45.53522612,
+     0.060101999999999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.49347700000000005,
+    "lon": -14.54263213,
+    "temperature": 20,
+    "humidity": 0.13,
+    "noise": -45,
+    "light": 10,
+    "rain": 646,
+    "windspeed": 12.01,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -14.54263213,
+     0.49347700000000005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.189859,
+    "lon": -11.30447583,
+    "temperature": 14,
+    "humidity": 0.98,
+    "noise": -38,
+    "light": 11,
+    "rain": 210,
+    "windspeed": 28.45,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -11.30447583,
+     0.189859
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.415013,
+    "lon": -49.16495401,
+    "temperature": 20,
+    "humidity": 0.89,
+    "noise": -29,
+    "light": 21,
+    "rain": 690,
+    "windspeed": 13.99,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -49.16495401,
+     0.415013
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.06352100000000001,
+    "lon": -29.25274435,
+    "temperature": 21,
+    "humidity": 0.81,
+    "noise": -38,
+    "light": 19,
+    "rain": 382,
+    "windspeed": 30.68,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -29.25274435,
+     0.06352100000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.9180510000000001,
+    "lon": -1.604438653,
+    "temperature": 25,
+    "humidity": 0.43,
+    "noise": -44,
+    "light": 12,
+    "rain": 422,
+    "windspeed": 14.37,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.604438653,
+     0.9180510000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.200803,
+    "lon": -59.35063341,
+    "temperature": 15,
+    "humidity": 0.78,
+    "noise": -23,
+    "light": 10,
+    "rain": 491,
+    "windspeed": 23.23,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.35063341,
+     0.200803
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.8582110000000001,
+    "lon": -55.39580544,
+    "temperature": 20,
+    "humidity": 0.41,
+    "noise": -11,
+    "light": 13,
+    "rain": 158,
+    "windspeed": 6.63,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.39580544,
+     0.8582110000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.296595,
+    "lon": -39.95710954,
+    "temperature": 12,
+    "humidity": 0.65,
+    "noise": -41,
+    "light": 4,
+    "rain": 317,
+    "windspeed": 21.08,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -39.95710954,
+     0.296595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.47829499999999997,
+    "lon": -4.703249124,
+    "temperature": 17,
+    "humidity": 0.4,
+    "noise": -9,
+    "light": 8,
+    "rain": 224,
+    "windspeed": 3.73,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.703249124,
+     0.47829499999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.740007,
+    "lon": -0.253545292,
+    "temperature": 20,
+    "humidity": 0.87,
+    "noise": -47,
+    "light": 30,
+    "rain": 380,
+    "windspeed": 43.53,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.253545292,
+     0.740007
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.40516199999999997,
+    "lon": -19.47641723,
+    "temperature": 14,
+    "humidity": 0.99,
+    "noise": -31,
+    "light": 25,
+    "rain": 201,
+    "windspeed": 6.21,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -19.47641723,
+     0.40516199999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.389031,
+    "lon": -17.06081743,
+    "temperature": 13,
+    "humidity": 0.39,
+    "noise": -8,
+    "light": 32,
+    "rain": 566,
+    "windspeed": 21.47,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -17.06081743,
+     0.389031
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.49609,
+    "lon": -1.9573762469999998,
+    "temperature": 17,
+    "humidity": 0.37,
+    "noise": -12,
+    "light": 6,
+    "rain": 501,
+    "windspeed": 64.06,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.9573762469999998,
+     0.49609
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.60059,
+    "lon": -1.567795262,
+    "temperature": 22,
+    "humidity": 0.9,
+    "noise": -47,
+    "light": 15,
+    "rain": 153,
+    "windspeed": 1.06,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.567795262,
+     0.60059
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.728431,
+    "lon": -28.622778399999998,
+    "temperature": 18,
+    "humidity": 0.97,
+    "noise": -21,
+    "light": 10,
+    "rain": 311,
+    "windspeed": 4.43,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -28.622778399999998,
+     0.728431
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.269735,
+    "lon": -3.107674247,
+    "temperature": 24,
+    "humidity": 0.16,
+    "noise": -42,
+    "light": 21,
+    "rain": 155,
+    "windspeed": 19.31,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.107674247,
+     0.269735
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.10080499999999999,
+    "lon": -16.46054542,
+    "temperature": 13,
+    "humidity": 0.64,
+    "noise": -50,
+    "light": 12,
+    "rain": 514,
+    "windspeed": 16.43,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.46054542,
+     0.10080499999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.028382,
+    "lon": -16.91283931,
+    "temperature": 13,
+    "humidity": 0.46,
+    "noise": -24,
+    "light": 8,
+    "rain": 107,
+    "windspeed": 35.12,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.91283931,
+     0.028382
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.878079,
+    "lon": -0.224335482,
+    "temperature": 12,
+    "humidity": 0.12,
+    "noise": -31,
+    "light": 13,
+    "rain": 390,
+    "windspeed": 18.75,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.224335482,
+     0.878079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.35733200000000004,
+    "lon": -16.40720186,
+    "temperature": 19,
+    "humidity": 0.61,
+    "noise": -32,
+    "light": 21,
+    "rain": 562,
+    "windspeed": 47.57,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.40720186,
+     0.35733200000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.8260379999999999,
+    "lon": -2.11513073,
+    "temperature": 17,
+    "humidity": 0.69,
+    "noise": -50,
+    "light": 24,
+    "rain": 132,
+    "windspeed": 14.92,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.11513073,
+     0.8260379999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.151828,
+    "lon": -12.12652142,
+    "temperature": 13,
+    "humidity": 0.2,
+    "noise": -8,
+    "light": 17,
+    "rain": 429,
+    "windspeed": 7.17,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.12652142,
+     0.151828
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.8648049999999999,
+    "lon": -2.041616607,
+    "temperature": 15,
+    "humidity": 0.98,
+    "noise": -15,
+    "light": 12,
+    "rain": 292,
+    "windspeed": 25.82,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.041616607,
+     0.8648049999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.221953,
+    "lon": -22.78794327,
+    "temperature": 12,
+    "humidity": 0.42,
+    "noise": -23,
+    "light": 30,
+    "rain": 554,
+    "windspeed": 0.0,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -22.78794327,
+     0.221953
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.40813,
+    "lon": -11.27395465,
+    "temperature": 22,
+    "humidity": 0.66,
+    "noise": -9,
+    "light": 0,
+    "rain": 127,
+    "windspeed": 10.38,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -11.27395465,
+     0.40813
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.92791,
+    "lon": -8.954808443,
+    "temperature": 17,
+    "humidity": 0.38,
+    "noise": -18,
+    "light": 20,
+    "rain": 343,
+    "windspeed": 13.87,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.954808443,
+     0.92791
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.554141,
+    "lon": -23.44980375,
+    "temperature": 21,
+    "humidity": 0.54,
+    "noise": -46,
+    "light": 16,
+    "rain": 582,
+    "windspeed": 0.92,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -23.44980375,
+     0.554141
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.468811,
+    "lon": -8.132821742,
+    "temperature": 16,
+    "humidity": 0.82,
+    "noise": -25,
+    "light": 0,
+    "rain": 207,
+    "windspeed": 5.12,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.132821742,
+     0.468811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.735434,
+    "lon": -8.073076015,
+    "temperature": 16,
+    "humidity": 0.53,
+    "noise": -45,
+    "light": 4,
+    "rain": 533,
+    "windspeed": 11.67,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.073076015,
+     0.735434
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.624373,
+    "lon": -0.46412592700000005,
+    "temperature": 25,
+    "humidity": 0.22,
+    "noise": -44,
+    "light": 11,
+    "rain": 695,
+    "windspeed": 1.58,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.46412592700000005,
+     0.624373
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.580002,
+    "lon": -63.59593804,
+    "temperature": 14,
+    "humidity": 0.03,
+    "noise": -8,
+    "light": 4,
+    "rain": 279,
+    "windspeed": 2.85,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.59593804,
+     0.580002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.41077600000000003,
+    "lon": -5.834483416,
+    "temperature": 20,
+    "humidity": 0.49,
+    "noise": -50,
+    "light": 13,
+    "rain": 279,
+    "windspeed": 55.59,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.834483416,
+     0.41077600000000003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.328376,
+    "lon": -3.102159465,
+    "temperature": 25,
+    "humidity": 0.08,
+    "noise": -28,
+    "light": 15,
+    "rain": 112,
+    "windspeed": 0.28,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.102159465,
+     0.328376
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.6635489999999999,
+    "lon": -23.36044355,
+    "temperature": 24,
+    "humidity": 0.51,
+    "noise": -23,
+    "light": 12,
+    "rain": 674,
+    "windspeed": 7.17,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -23.36044355,
+     0.6635489999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.26767399999999997,
+    "lon": -10.98804676,
+    "temperature": 12,
+    "humidity": 0.84,
+    "noise": -17,
+    "light": 9,
+    "rain": 404,
+    "windspeed": 20.07,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.98804676,
+     0.26767399999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.39635,
+    "lon": -0.46881982299999997,
+    "temperature": 24,
+    "humidity": 0.74,
+    "noise": -31,
+    "light": 6,
+    "rain": 545,
+    "windspeed": 6.05,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.46881982299999997,
+     0.39635
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.19326300000000002,
+    "lon": -20.05135204,
+    "temperature": 21,
+    "humidity": 0.4,
+    "noise": -39,
+    "light": 30,
+    "rain": 681,
+    "windspeed": 42.49,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -20.05135204,
+     0.19326300000000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.8269850000000001,
+    "lon": -59.44186466,
+    "temperature": 25,
+    "humidity": 0.18,
+    "noise": -47,
+    "light": 0,
+    "rain": 623,
+    "windspeed": 24.05,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -59.44186466,
+     0.8269850000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.666917,
+    "lon": -2.169610832,
+    "temperature": 12,
+    "humidity": 0.43,
+    "noise": -41,
+    "light": 2,
+    "rain": 659,
+    "windspeed": 50.96,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.169610832,
+     0.666917
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.07019199999999999,
+    "lon": -34.20330931,
+    "temperature": 20,
+    "humidity": 0.59,
+    "noise": -5,
+    "light": 1,
+    "rain": 569,
+    "windspeed": 49.05,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -34.20330931,
+     0.07019199999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.6791050000000001,
+    "lon": -52.86173683,
+    "temperature": 25,
+    "humidity": 0.08,
+    "noise": -5,
+    "light": 10,
+    "rain": 562,
+    "windspeed": 53.08,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.86173683,
+     0.6791050000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.37149899999999997,
+    "lon": -39.36021559,
+    "temperature": 12,
+    "humidity": 0.93,
+    "noise": -24,
+    "light": 2,
+    "rain": 322,
+    "windspeed": 10.31,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -39.36021559,
+     0.37149899999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.6903239999999999,
+    "lon": -33.91289209,
+    "temperature": 18,
+    "humidity": 0.38,
+    "noise": -10,
+    "light": 16,
+    "rain": 433,
+    "windspeed": 0.15,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -33.91289209,
+     0.6903239999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.580705,
+    "lon": -21.50964386,
+    "temperature": 17,
+    "humidity": 0.72,
+    "noise": -34,
+    "light": 21,
+    "rain": 669,
+    "windspeed": 1.97,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.50964386,
+     0.580705
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.808077,
+    "lon": -20.57429779,
+    "temperature": 18,
+    "humidity": 0.06,
+    "noise": -17,
+    "light": 23,
+    "rain": 667,
+    "windspeed": 15.93,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -20.57429779,
+     0.808077
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.6719569999999999,
+    "lon": -12.30625451,
+    "temperature": 16,
+    "humidity": 0.4,
+    "noise": -18,
+    "light": 29,
+    "rain": 428,
+    "windspeed": 25.51,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.30625451,
+     0.6719569999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.09707,
+    "lon": -0.062771388,
+    "temperature": 20,
+    "humidity": 0.96,
+    "noise": -6,
+    "light": 31,
+    "rain": 258,
+    "windspeed": 26.86,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.062771388,
+     0.09707
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.509945,
+    "lon": -1.8192681569999998,
+    "temperature": 20,
+    "humidity": 0.89,
+    "noise": -26,
+    "light": 14,
+    "rain": 122,
+    "windspeed": 1.68,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8192681569999998,
+     0.509945
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.9521930000000001,
+    "lon": -13.55442813,
+    "temperature": 19,
+    "humidity": 0.97,
+    "noise": -29,
+    "light": 16,
+    "rain": 510,
+    "windspeed": 14.13,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.55442813,
+     0.9521930000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.056185,
+    "lon": -0.68065354,
+    "temperature": 18,
+    "humidity": 0.59,
+    "noise": -16,
+    "light": 9,
+    "rain": 584,
+    "windspeed": 16.17,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.68065354,
+     0.056185
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.627209,
+    "lon": -0.21757149899999997,
+    "temperature": 14,
+    "humidity": 0.65,
+    "noise": -14,
+    "light": 5,
+    "rain": 144,
+    "windspeed": 25.67,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.21757149899999997,
+     0.627209
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.22870500000000002,
+    "lon": -8.619083937000001,
+    "temperature": 16,
+    "humidity": 0.86,
+    "noise": -27,
+    "light": 12,
+    "rain": 346,
+    "windspeed": 26.74,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.619083937000001,
+     0.22870500000000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.27979,
+    "lon": -2.9403792319999997,
+    "temperature": 18,
+    "humidity": 0.75,
+    "noise": -32,
+    "light": 12,
+    "rain": 665,
+    "windspeed": 12.76,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9403792319999997,
+     0.27979
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.940789,
+    "lon": -9.069078187,
+    "temperature": 14,
+    "humidity": 0.59,
+    "noise": -30,
+    "light": 32,
+    "rain": 664,
+    "windspeed": 9.41,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.069078187,
+     0.940789
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.207618,
+    "lon": -0.5052466320000001,
+    "temperature": 12,
+    "humidity": 0.07,
+    "noise": -1,
+    "light": 32,
+    "rain": 395,
+    "windspeed": 19.01,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5052466320000001,
+     0.207618
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.113826,
+    "lon": -5.432920547999999,
+    "temperature": 25,
+    "humidity": 0.7,
+    "noise": -11,
+    "light": 15,
+    "rain": 497,
+    "windspeed": 8.56,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.432920547999999,
+     0.113826
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.074461,
+    "lon": -63.1591856,
+    "temperature": 16,
+    "humidity": 0.75,
+    "noise": -7,
+    "light": 19,
+    "rain": 356,
+    "windspeed": 1.55,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.1591856,
+     0.074461
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.7581859999999999,
+    "lon": -13.14503464,
+    "temperature": 14,
+    "humidity": 0.87,
+    "noise": -14,
+    "light": 22,
+    "rain": 490,
+    "windspeed": 5.97,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.14503464,
+     0.7581859999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.304322,
+    "lon": -15.86909081,
+    "temperature": 20,
+    "humidity": 0.87,
+    "noise": -13,
+    "light": 15,
+    "rain": 466,
+    "windspeed": 3.31,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -15.86909081,
+     0.304322
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.315279,
+    "lon": -15.66567665,
+    "temperature": 15,
+    "humidity": 0.21,
+    "noise": -8,
+    "light": 14,
+    "rain": 359,
+    "windspeed": 0.0,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -15.66567665,
+     0.315279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.821002,
+    "lon": -70.54777368,
+    "temperature": 14,
+    "humidity": 0.28,
+    "noise": -43,
+    "light": 32,
+    "rain": 296,
+    "windspeed": 0.0,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.54777368,
+     0.821002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.455042,
+    "lon": -1.05593402,
+    "temperature": 20,
+    "humidity": 0.46,
+    "noise": -34,
+    "light": 6,
+    "rain": 128,
+    "windspeed": 8.24,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.05593402,
+     0.455042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.013290999999999999,
+    "lon": -21.98921722,
+    "temperature": 16,
+    "humidity": 0.52,
+    "noise": -18,
+    "light": 2,
+    "rain": 224,
+    "windspeed": 1.67,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.98921722,
+     0.013290999999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.593805,
+    "lon": -2.163269998,
+    "temperature": 22,
+    "humidity": 0.09,
+    "noise": -47,
+    "light": 15,
+    "rain": 374,
+    "windspeed": 9.03,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.163269998,
+     0.593805
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.292194,
+    "lon": -36.1818688,
+    "temperature": 24,
+    "humidity": 0.36,
+    "noise": -22,
+    "light": 23,
+    "rain": 263,
+    "windspeed": 29.68,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -36.1818688,
+     0.292194
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.522696,
+    "lon": -50.21919389,
+    "temperature": 19,
+    "humidity": 0.42,
+    "noise": -5,
+    "light": 10,
+    "rain": 160,
+    "windspeed": 21.23,
+    "city": "Quito"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -50.21919389,
+     0.522696
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env1982000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.934318,
+    "lon": -21.10749238,
+    "temperature": 24,
+    "humidity": 0.12,
+    "noise": -43,
+    "light": 5,
+    "rain": 142,
+    "windspeed": 2.08,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.10749238,
+     0.934318
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.567476,
+    "lon": -70.69299074,
+    "temperature": 12,
+    "humidity": 0.42,
+    "noise": -37,
+    "light": 10,
+    "rain": 521,
+    "windspeed": 3.0,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.69299074,
+     0.567476
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.928747,
+    "lon": -0.091362724,
+    "temperature": 20,
+    "humidity": 0.78,
+    "noise": -29,
+    "light": 13,
+    "rain": 132,
+    "windspeed": 5.56,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.091362724,
+     0.928747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.9976799999999999,
+    "lon": -24.98856431,
+    "temperature": 15,
+    "humidity": 0.73,
+    "noise": -14,
+    "light": 29,
+    "rain": 590,
+    "windspeed": 48.13,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -24.98856431,
+     0.9976799999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.844966,
+    "lon": -7.490378428,
+    "temperature": 14,
+    "humidity": 0.93,
+    "noise": -12,
+    "light": 26,
+    "rain": 484,
+    "windspeed": 35.83,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.490378428,
+     0.844966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.684142,
+    "lon": -35.36243331,
+    "temperature": 24,
+    "humidity": 0.38,
+    "noise": -43,
+    "light": 8,
+    "rain": 221,
+    "windspeed": 8.5,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -35.36243331,
+     0.684142
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.342409,
+    "lon": -37.76821005,
+    "temperature": 18,
+    "humidity": 0.08,
+    "noise": -27,
+    "light": 11,
+    "rain": 572,
+    "windspeed": 18.15,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -37.76821005,
+     0.342409
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.42988699999999996,
+    "lon": -18.856675600000003,
+    "temperature": 16,
+    "humidity": 0.39,
+    "noise": -20,
+    "light": 18,
+    "rain": 145,
+    "windspeed": 3.11,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -18.856675600000003,
+     0.42988699999999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.41442799999999996,
+    "lon": -11.20821359,
+    "temperature": 12,
+    "humidity": 0.48,
+    "noise": -10,
+    "light": 24,
+    "rain": 645,
+    "windspeed": 28.26,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -11.20821359,
+     0.41442799999999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.9468469999999999,
+    "lon": -8.864443862,
+    "temperature": 22,
+    "humidity": 0.54,
+    "noise": -17,
+    "light": 4,
+    "rain": 558,
+    "windspeed": 2.84,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.864443862,
+     0.9468469999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.969184,
+    "lon": -13.30523595,
+    "temperature": 17,
+    "humidity": 0.71,
+    "noise": -4,
+    "light": 27,
+    "rain": 624,
+    "windspeed": 49.25,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.30523595,
+     0.969184
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.816599,
+    "lon": -20.286682100000004,
+    "temperature": 20,
+    "humidity": 0.25,
+    "noise": -9,
+    "light": 17,
+    "rain": 437,
+    "windspeed": 0.0,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -20.286682100000004,
+     0.816599
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.847319,
+    "lon": -30.04125836,
+    "temperature": 17,
+    "humidity": 0.76,
+    "noise": -26,
+    "light": 8,
+    "rain": 292,
+    "windspeed": 7.87,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -30.04125836,
+     0.847319
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.470765,
+    "lon": -53.15108258,
+    "temperature": 23,
+    "humidity": 0.99,
+    "noise": -5,
+    "light": 2,
+    "rain": 242,
+    "windspeed": 3.81,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -53.15108258,
+     0.470765
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.8600120000000001,
+    "lon": -26.74200188,
+    "temperature": 16,
+    "humidity": 0.77,
+    "noise": -24,
+    "light": 29,
+    "rain": 119,
+    "windspeed": 46.96,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -26.74200188,
+     0.8600120000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.674722,
+    "lon": -19.2414129,
+    "temperature": 15,
+    "humidity": 0.98,
+    "noise": -1,
+    "light": 21,
+    "rain": 691,
+    "windspeed": 27.06,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -19.2414129,
+     0.674722
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.631221,
+    "lon": -10.14537471,
+    "temperature": 24,
+    "humidity": 0.8,
+    "noise": -23,
+    "light": 19,
+    "rain": 284,
+    "windspeed": 2.45,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.14537471,
+     0.631221
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.395791,
+    "lon": -8.391126715,
+    "temperature": 21,
+    "humidity": 0.39,
+    "noise": -44,
+    "light": 1,
+    "rain": 213,
+    "windspeed": 5.46,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.391126715,
+     0.395791
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.400214,
+    "lon": -11.37612857,
+    "temperature": 14,
+    "humidity": 0.85,
+    "noise": 0,
+    "light": 19,
+    "rain": 419,
+    "windspeed": 6.21,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -11.37612857,
+     0.400214
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.37841199999999997,
+    "lon": -6.8072897139999995,
+    "temperature": 18,
+    "humidity": 0.15,
+    "noise": -48,
+    "light": 4,
+    "rain": 569,
+    "windspeed": 20.03,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.8072897139999995,
+     0.37841199999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.672077,
+    "lon": -0.078532108,
+    "temperature": 12,
+    "humidity": 0.4,
+    "noise": -45,
+    "light": 23,
+    "rain": 189,
+    "windspeed": 10.73,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.078532108,
+     0.672077
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.7894800000000001,
+    "lon": -2.9063934689999997,
+    "temperature": 24,
+    "humidity": 0.31,
+    "noise": -4,
+    "light": 25,
+    "rain": 426,
+    "windspeed": 5.59,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9063934689999997,
+     0.7894800000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.655071,
+    "lon": -4.989699345,
+    "temperature": 24,
+    "humidity": 0.04,
+    "noise": -19,
+    "light": 24,
+    "rain": 674,
+    "windspeed": 21.42,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.989699345,
+     0.655071
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.252054,
+    "lon": -2.808222085,
+    "temperature": 14,
+    "humidity": 0.47,
+    "noise": -23,
+    "light": 5,
+    "rain": 629,
+    "windspeed": 13.0,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.808222085,
+     0.252054
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.814512,
+    "lon": -4.015744133,
+    "temperature": 17,
+    "humidity": 0.6,
+    "noise": -48,
+    "light": 20,
+    "rain": 255,
+    "windspeed": 40.45,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.015744133,
+     0.814512
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.547872,
+    "lon": -4.415319783999999,
+    "temperature": 22,
+    "humidity": 0.49,
+    "noise": -15,
+    "light": 22,
+    "rain": 629,
+    "windspeed": 28.39,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.415319783999999,
+     0.547872
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.893509,
+    "lon": -5.469889321,
+    "temperature": 12,
+    "humidity": 0.46,
+    "noise": -38,
+    "light": 29,
+    "rain": 303,
+    "windspeed": 2.25,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.469889321,
+     0.893509
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.38229,
+    "lon": -48.87609009,
+    "temperature": 15,
+    "humidity": 0.42,
+    "noise": -31,
+    "light": 18,
+    "rain": 187,
+    "windspeed": 6.98,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.87609009,
+     0.38229
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.270542,
+    "lon": -7.079604772000001,
+    "temperature": 25,
+    "humidity": 0.28,
+    "noise": -1,
+    "light": 16,
+    "rain": 697,
+    "windspeed": 3.64,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.079604772000001,
+     0.270542
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.6700020000000001,
+    "lon": -0.69096845,
+    "temperature": 22,
+    "humidity": 0.14,
+    "noise": -24,
+    "light": 21,
+    "rain": 216,
+    "windspeed": 58.5,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.69096845,
+     0.6700020000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.236427,
+    "lon": -3.662520292,
+    "temperature": 21,
+    "humidity": 0.44,
+    "noise": -50,
+    "light": 2,
+    "rain": 160,
+    "windspeed": 7.54,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.662520292,
+     0.236427
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.036532,
+    "lon": -0.5753142489999999,
+    "temperature": 16,
+    "humidity": 0.63,
+    "noise": -8,
+    "light": 20,
+    "rain": 511,
+    "windspeed": 4.28,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5753142489999999,
+     0.036532
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.209938,
+    "lon": -29.763626000000002,
+    "temperature": 20,
+    "humidity": 0.22,
+    "noise": -35,
+    "light": 24,
+    "rain": 200,
+    "windspeed": 14.72,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -29.763626000000002,
+     0.209938
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.757184,
+    "lon": -13.44253826,
+    "temperature": 13,
+    "humidity": 0.11,
+    "noise": -27,
+    "light": 5,
+    "rain": 146,
+    "windspeed": 57.11,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.44253826,
+     0.757184
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.257735,
+    "lon": -5.6803274539999995,
+    "temperature": 13,
+    "humidity": 0.02,
+    "noise": -46,
+    "light": 25,
+    "rain": 691,
+    "windspeed": 15.41,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.6803274539999995,
+     0.257735
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.176317,
+    "lon": -16.30408128,
+    "temperature": 19,
+    "humidity": 0.04,
+    "noise": -34,
+    "light": 16,
+    "rain": 115,
+    "windspeed": 18.91,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.30408128,
+     0.176317
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.574294,
+    "lon": -29.81967248,
+    "temperature": 25,
+    "humidity": 0.51,
+    "noise": -42,
+    "light": 8,
+    "rain": 341,
+    "windspeed": 8.18,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -29.81967248,
+     0.574294
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.393787,
+    "lon": -13.79437251,
+    "temperature": 18,
+    "humidity": 0.93,
+    "noise": -9,
+    "light": 18,
+    "rain": 110,
+    "windspeed": 2.07,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.79437251,
+     0.393787
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.921273,
+    "lon": -29.10512053,
+    "temperature": 12,
+    "humidity": 0.3,
+    "noise": -50,
+    "light": 14,
+    "rain": 168,
+    "windspeed": 51.28,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -29.10512053,
+     0.921273
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.603583,
+    "lon": -20.35649385,
+    "temperature": 18,
+    "humidity": 0.5,
+    "noise": -16,
+    "light": 32,
+    "rain": 137,
+    "windspeed": 0.23,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -20.35649385,
+     0.603583
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.5818939999999999,
+    "lon": -22.72403966,
+    "temperature": 25,
+    "humidity": 0.89,
+    "noise": -3,
+    "light": 2,
+    "rain": 378,
+    "windspeed": 44.98,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -22.72403966,
+     0.5818939999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.070664,
+    "lon": -28.78861888,
+    "temperature": 12,
+    "humidity": 0.46,
+    "noise": -39,
+    "light": 5,
+    "rain": 161,
+    "windspeed": 3.91,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -28.78861888,
+     0.070664
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.66485,
+    "lon": -5.110862655,
+    "temperature": 21,
+    "humidity": 0.94,
+    "noise": -34,
+    "light": 6,
+    "rain": 441,
+    "windspeed": 7.88,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.110862655,
+     0.66485
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.712503,
+    "lon": -23.97674432,
+    "temperature": 19,
+    "humidity": 0.13,
+    "noise": -1,
+    "light": 22,
+    "rain": 274,
+    "windspeed": 24.67,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -23.97674432,
+     0.712503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.73464,
+    "lon": -41.58232586,
+    "temperature": 14,
+    "humidity": 0.36,
+    "noise": -20,
+    "light": 8,
+    "rain": 463,
+    "windspeed": 26.01,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -41.58232586,
+     0.73464
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.947857,
+    "lon": -1.8753153880000002,
+    "temperature": 18,
+    "humidity": 0.51,
+    "noise": -49,
+    "light": 25,
+    "rain": 199,
+    "windspeed": 7.26,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.8753153880000002,
+     0.947857
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.808353,
+    "lon": -40.81931062,
+    "temperature": 19,
+    "humidity": 0.14,
+    "noise": -44,
+    "light": 31,
+    "rain": 612,
+    "windspeed": 21.25,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -40.81931062,
+     0.808353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.724391,
+    "lon": -1.5184350030000002,
+    "temperature": 21,
+    "humidity": 0.59,
+    "noise": -25,
+    "light": 32,
+    "rain": 460,
+    "windspeed": 24.91,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.5184350030000002,
+     0.724391
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.022047,
+    "lon": -71.80565399,
+    "temperature": 18,
+    "humidity": 0.68,
+    "noise": -44,
+    "light": 4,
+    "rain": 501,
+    "windspeed": 10.02,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.80565399,
+     0.022047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.53676,
+    "lon": -12.61668339,
+    "temperature": 13,
+    "humidity": 0.57,
+    "noise": -12,
+    "light": 23,
+    "rain": 247,
+    "windspeed": 74.88,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.61668339,
+     0.53676
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.837857,
+    "lon": -0.5207026220000001,
+    "temperature": 17,
+    "humidity": 0.07,
+    "noise": -20,
+    "light": 29,
+    "rain": 678,
+    "windspeed": 35.06,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.5207026220000001,
+     0.837857
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.18128699999999998,
+    "lon": -52.42196075,
+    "temperature": 18,
+    "humidity": 0.38,
+    "noise": -9,
+    "light": 7,
+    "rain": 558,
+    "windspeed": 19.33,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.42196075,
+     0.18128699999999998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.142566,
+    "lon": -14.43382642,
+    "temperature": 25,
+    "humidity": 0.44,
+    "noise": -12,
+    "light": 7,
+    "rain": 678,
+    "windspeed": 45.08,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -14.43382642,
+     0.142566
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.279547,
+    "lon": -3.162132582,
+    "temperature": 19,
+    "humidity": 0.28,
+    "noise": -8,
+    "light": 30,
+    "rain": 641,
+    "windspeed": 61.22,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.162132582,
+     0.279547
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.756147,
+    "lon": -1.558078104,
+    "temperature": 12,
+    "humidity": 0.17,
+    "noise": -45,
+    "light": 4,
+    "rain": 658,
+    "windspeed": 17.18,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.558078104,
+     0.756147
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.24126799999999998,
+    "lon": -6.362384767000001,
+    "temperature": 12,
+    "humidity": 0.55,
+    "noise": -14,
+    "light": 6,
+    "rain": 581,
+    "windspeed": 14.55,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.362384767000001,
+     0.24126799999999998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.642265,
+    "lon": -52.30750349,
+    "temperature": 16,
+    "humidity": 0.98,
+    "noise": -42,
+    "light": 29,
+    "rain": 481,
+    "windspeed": 56.29,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -52.30750349,
+     0.642265
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.168495,
+    "lon": -4.991943436000001,
+    "temperature": 13,
+    "humidity": 0.2,
+    "noise": -50,
+    "light": 1,
+    "rain": 398,
+    "windspeed": 50.15,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.991943436000001,
+     0.168495
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.496935,
+    "lon": -40.82073652,
+    "temperature": 25,
+    "humidity": 0.87,
+    "noise": -2,
+    "light": 3,
+    "rain": 575,
+    "windspeed": 24.74,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -40.82073652,
+     0.496935
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.223543,
+    "lon": -9.758721387000001,
+    "temperature": 19,
+    "humidity": 0.83,
+    "noise": -38,
+    "light": 14,
+    "rain": 673,
+    "windspeed": 11.22,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.758721387000001,
+     0.223543
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.24478200000000003,
+    "lon": -5.136290167,
+    "temperature": 14,
+    "humidity": 0.59,
+    "noise": -24,
+    "light": 16,
+    "rain": 648,
+    "windspeed": 5.48,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.136290167,
+     0.24478200000000003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.6217600000000001,
+    "lon": -6.18387774,
+    "temperature": 15,
+    "humidity": 0.1,
+    "noise": -50,
+    "light": 9,
+    "rain": 102,
+    "windspeed": 29.47,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.18387774,
+     0.6217600000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.837251,
+    "lon": -16.60475784,
+    "temperature": 13,
+    "humidity": 0.96,
+    "noise": -12,
+    "light": 18,
+    "rain": 299,
+    "windspeed": 26.34,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.60475784,
+     0.837251
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.37651,
+    "lon": -4.399035505,
+    "temperature": 22,
+    "humidity": 0.54,
+    "noise": -22,
+    "light": 0,
+    "rain": 140,
+    "windspeed": 7.95,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.399035505,
+     0.37651
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.383437,
+    "lon": -12.60569831,
+    "temperature": 15,
+    "humidity": 0.46,
+    "noise": -50,
+    "light": 23,
+    "rain": 382,
+    "windspeed": 23.74,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.60569831,
+     0.383437
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.583555,
+    "lon": -6.789951766000001,
+    "temperature": 16,
+    "humidity": 0.76,
+    "noise": -48,
+    "light": 12,
+    "rain": 248,
+    "windspeed": 10.95,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.789951766000001,
+     0.583555
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.555489,
+    "lon": -10.53279449,
+    "temperature": 18,
+    "humidity": 0.46,
+    "noise": -26,
+    "light": 31,
+    "rain": 356,
+    "windspeed": 4.28,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.53279449,
+     0.555489
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.50849,
+    "lon": -23.43127663,
+    "temperature": 25,
+    "humidity": 0.77,
+    "noise": 0,
+    "light": 17,
+    "rain": 320,
+    "windspeed": 13.11,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -23.43127663,
+     0.50849
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.140105,
+    "lon": -29.38729581,
+    "temperature": 12,
+    "humidity": 0.09,
+    "noise": -4,
+    "light": 12,
+    "rain": 157,
+    "windspeed": 29.41,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -29.38729581,
+     0.140105
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.390092,
+    "lon": -10.60279428,
+    "temperature": 23,
+    "humidity": 0.96,
+    "noise": -36,
+    "light": 0,
+    "rain": 575,
+    "windspeed": 11.97,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.60279428,
+     0.390092
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.47556899999999996,
+    "lon": -1.691294766,
+    "temperature": 15,
+    "humidity": 0.11,
+    "noise": -5,
+    "light": 4,
+    "rain": 282,
+    "windspeed": 39.91,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.691294766,
+     0.47556899999999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.491321,
+    "lon": -21.26095181,
+    "temperature": 23,
+    "humidity": 0.33,
+    "noise": -4,
+    "light": 24,
+    "rain": 339,
+    "windspeed": 1.57,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.26095181,
+     0.491321
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.301635,
+    "lon": -16.34530127,
+    "temperature": 25,
+    "humidity": 0.63,
+    "noise": -28,
+    "light": 26,
+    "rain": 198,
+    "windspeed": 30.36,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.34530127,
+     0.301635
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.976453,
+    "lon": -25.95188073,
+    "temperature": 22,
+    "humidity": 0.02,
+    "noise": -41,
+    "light": 12,
+    "rain": 208,
+    "windspeed": 15.87,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -25.95188073,
+     0.976453
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.539609,
+    "lon": -22.43654735,
+    "temperature": 13,
+    "humidity": 0.99,
+    "noise": -12,
+    "light": 24,
+    "rain": 547,
+    "windspeed": 48.57,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -22.43654735,
+     0.539609
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.706892,
+    "lon": -2.9163798830000003,
+    "temperature": 15,
+    "humidity": 0.01,
+    "noise": -30,
+    "light": 5,
+    "rain": 202,
+    "windspeed": 4.09,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9163798830000003,
+     0.706892
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.631739,
+    "lon": -26.03766515,
+    "temperature": 12,
+    "humidity": 0.8,
+    "noise": -37,
+    "light": 24,
+    "rain": 550,
+    "windspeed": 23.28,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -26.03766515,
+     0.631739
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.759929,
+    "lon": -0.29305071899999996,
+    "temperature": 14,
+    "humidity": 0.67,
+    "noise": -1,
+    "light": 12,
+    "rain": 378,
+    "windspeed": 0.96,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.29305071899999996,
+     0.759929
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.53155,
+    "lon": -1.0212281159999999,
+    "temperature": 25,
+    "humidity": 0.17,
+    "noise": -26,
+    "light": 0,
+    "rain": 642,
+    "windspeed": 8.17,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.0212281159999999,
+     0.53155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.7324689999999999,
+    "lon": -0.9894388590000001,
+    "temperature": 25,
+    "humidity": 0.35,
+    "noise": -40,
+    "light": 20,
+    "rain": 424,
+    "windspeed": 0.92,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.9894388590000001,
+     0.7324689999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.080356,
+    "lon": -71.31086528,
+    "temperature": 23,
+    "humidity": 0.25,
+    "noise": -44,
+    "light": 30,
+    "rain": 326,
+    "windspeed": 27.78,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.31086528,
+     0.080356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.36119,
+    "lon": -21.73979023,
+    "temperature": 20,
+    "humidity": 0.13,
+    "noise": -44,
+    "light": 26,
+    "rain": 468,
+    "windspeed": 18.9,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.73979023,
+     0.36119
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.73641,
+    "lon": -39.60481225,
+    "temperature": 16,
+    "humidity": 0.6,
+    "noise": -46,
+    "light": 22,
+    "rain": 400,
+    "windspeed": 23.0,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -39.60481225,
+     0.73641
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.57234,
+    "lon": -19.20162222,
+    "temperature": 25,
+    "humidity": 0.49,
+    "noise": -1,
+    "light": 24,
+    "rain": 353,
+    "windspeed": 11.89,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -19.20162222,
+     0.57234
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.360477,
+    "lon": -13.26335653,
+    "temperature": 14,
+    "humidity": 0.77,
+    "noise": -31,
+    "light": 31,
+    "rain": 693,
+    "windspeed": 49.62,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.26335653,
+     0.360477
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.457347,
+    "lon": -4.3167812,
+    "temperature": 19,
+    "humidity": 0.39,
+    "noise": -43,
+    "light": 31,
+    "rain": 424,
+    "windspeed": 8.6,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.3167812,
+     0.457347
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.26864299999999997,
+    "lon": -11.41533678,
+    "temperature": 14,
+    "humidity": 0.72,
+    "noise": -6,
+    "light": 2,
+    "rain": 101,
+    "windspeed": 51.1,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -11.41533678,
+     0.26864299999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.801602,
+    "lon": -37.15539471,
+    "temperature": 22,
+    "humidity": 0.46,
+    "noise": -35,
+    "light": 20,
+    "rain": 349,
+    "windspeed": 35.26,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -37.15539471,
+     0.801602
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.850442,
+    "lon": -5.603071393,
+    "temperature": 24,
+    "humidity": 0.14,
+    "noise": -49,
+    "light": 27,
+    "rain": 593,
+    "windspeed": 37.69,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.603071393,
+     0.850442
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.349695,
+    "lon": -19.51193462,
+    "temperature": 23,
+    "humidity": 0.82,
+    "noise": -23,
+    "light": 30,
+    "rain": 343,
+    "windspeed": 0.17,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -19.51193462,
+     0.349695
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.339704,
+    "lon": -0.06404496,
+    "temperature": 23,
+    "humidity": 0.11,
+    "noise": -23,
+    "light": 1,
+    "rain": 674,
+    "windspeed": 1.21,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.06404496,
+     0.339704
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.847767,
+    "lon": -18.40864872,
+    "temperature": 12,
+    "humidity": 0.99,
+    "noise": -31,
+    "light": 6,
+    "rain": 519,
+    "windspeed": 8.24,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -18.40864872,
+     0.847767
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.931923,
+    "lon": -4.198320042,
+    "temperature": 16,
+    "humidity": 0.32,
+    "noise": -2,
+    "light": 9,
+    "rain": 149,
+    "windspeed": 2.26,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.198320042,
+     0.931923
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.040122000000000005,
+    "lon": -6.666289744,
+    "temperature": 14,
+    "humidity": 0.01,
+    "noise": -18,
+    "light": 17,
+    "rain": 386,
+    "windspeed": 41.47,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.666289744,
+     0.040122000000000005
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.680804,
+    "lon": -2.76266127,
+    "temperature": 21,
+    "humidity": 0.62,
+    "noise": -41,
+    "light": 9,
+    "rain": 211,
+    "windspeed": 17.36,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.76266127,
+     0.680804
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.06485199999999999,
+    "lon": -18.3116658,
+    "temperature": 17,
+    "humidity": 0.66,
+    "noise": -34,
+    "light": 9,
+    "rain": 226,
+    "windspeed": 26.37,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -18.3116658,
+     0.06485199999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.14407,
+    "lon": -10.05306876,
+    "temperature": 25,
+    "humidity": 0.04,
+    "noise": -30,
+    "light": 23,
+    "rain": 484,
+    "windspeed": 14.06,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.05306876,
+     0.14407
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.573904,
+    "lon": -13.30596001,
+    "temperature": 20,
+    "humidity": 0.99,
+    "noise": -33,
+    "light": 13,
+    "rain": 351,
+    "windspeed": 31.77,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -13.30596001,
+     0.573904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.563104,
+    "lon": -21.05049696,
+    "temperature": 24,
+    "humidity": 0.08,
+    "noise": -31,
+    "light": 3,
+    "rain": 232,
+    "windspeed": 8.47,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.05049696,
+     0.563104
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.38397600000000004,
+    "lon": -48.69458073,
+    "temperature": 12,
+    "humidity": 0.38,
+    "noise": -27,
+    "light": 31,
+    "rain": 571,
+    "windspeed": 6.24,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -48.69458073,
+     0.38397600000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2083000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.080877,
+    "lon": -26.07056133,
+    "temperature": 13,
+    "humidity": 0.19,
+    "noise": -42,
+    "light": 25,
+    "rain": 484,
+    "windspeed": 3.33,
+    "city": "Guayaquil"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -26.07056133,
+     0.080877
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.620092,
+    "lon": -60.97430764,
+    "temperature": 15,
+    "humidity": 0.93,
+    "noise": -36,
+    "light": 13,
+    "rain": 461,
+    "windspeed": 22.44,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.97430764,
+     0.620092
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.57191,
+    "lon": -10.03732899,
+    "temperature": 23,
+    "humidity": 0.02,
+    "noise": -49,
+    "light": 29,
+    "rain": 188,
+    "windspeed": 4.23,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.03732899,
+     0.57191
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.166881,
+    "lon": -2.193190608,
+    "temperature": 19,
+    "humidity": 0.56,
+    "noise": -38,
+    "light": 17,
+    "rain": 161,
+    "windspeed": 1.8,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.193190608,
+     0.166881
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.916334,
+    "lon": -2.192672027,
+    "temperature": 21,
+    "humidity": 0.09,
+    "noise": -3,
+    "light": 19,
+    "rain": 237,
+    "windspeed": 21.21,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.192672027,
+     0.916334
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.488541,
+    "lon": -9.341779029,
+    "temperature": 15,
+    "humidity": 0.83,
+    "noise": -5,
+    "light": 30,
+    "rain": 482,
+    "windspeed": 11.26,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.341779029,
+     0.488541
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.8283510000000001,
+    "lon": -63.37825798,
+    "temperature": 18,
+    "humidity": 0.76,
+    "noise": -44,
+    "light": 11,
+    "rain": 239,
+    "windspeed": 14.87,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -63.37825798,
+     0.8283510000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.913331,
+    "lon": -2.613086271,
+    "temperature": 23,
+    "humidity": 0.92,
+    "noise": -36,
+    "light": 23,
+    "rain": 330,
+    "windspeed": 7.31,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.613086271,
+     0.913331
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.538239,
+    "lon": -19.27304653,
+    "temperature": 18,
+    "humidity": 0.37,
+    "noise": -35,
+    "light": 29,
+    "rain": 142,
+    "windspeed": 21.36,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -19.27304653,
+     0.538239
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.029108999999999996,
+    "lon": -16.71692104,
+    "temperature": 24,
+    "humidity": 0.21,
+    "noise": -41,
+    "light": 0,
+    "rain": 695,
+    "windspeed": 9.26,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.71692104,
+     0.029108999999999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.801158,
+    "lon": -25.96254442,
+    "temperature": 19,
+    "humidity": 0.99,
+    "noise": -31,
+    "light": 9,
+    "rain": 457,
+    "windspeed": 66.31,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -25.96254442,
+     0.801158
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.5588390000000001,
+    "lon": -15.36158105,
+    "temperature": 25,
+    "humidity": 0.39,
+    "noise": -15,
+    "light": 28,
+    "rain": 283,
+    "windspeed": 17.02,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -15.36158105,
+     0.5588390000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.431605,
+    "lon": -8.079169718,
+    "temperature": 16,
+    "humidity": 0.83,
+    "noise": -50,
+    "light": 2,
+    "rain": 507,
+    "windspeed": 6.65,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.079169718,
+     0.431605
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.358852,
+    "lon": -5.031055604,
+    "temperature": 18,
+    "humidity": 0.71,
+    "noise": -35,
+    "light": 24,
+    "rain": 239,
+    "windspeed": 22.03,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.031055604,
+     0.358852
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.960184,
+    "lon": -21.85904833,
+    "temperature": 20,
+    "humidity": 0.85,
+    "noise": -9,
+    "light": 24,
+    "rain": 480,
+    "windspeed": 16.23,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.85904833,
+     0.960184
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.33336,
+    "lon": -22.45156384,
+    "temperature": 12,
+    "humidity": 0.45,
+    "noise": -9,
+    "light": 17,
+    "rain": 182,
+    "windspeed": 5.12,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -22.45156384,
+     0.33336
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.547233,
+    "lon": -2.147762281,
+    "temperature": 14,
+    "humidity": 0.04,
+    "noise": -29,
+    "light": 25,
+    "rain": 561,
+    "windspeed": 2.23,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.147762281,
+     0.547233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.768587,
+    "lon": -36.64309783,
+    "temperature": 18,
+    "humidity": 0.72,
+    "noise": -21,
+    "light": 2,
+    "rain": 130,
+    "windspeed": 10.21,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -36.64309783,
+     0.768587
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.881534,
+    "lon": -16.96180401,
+    "temperature": 24,
+    "humidity": 0.06,
+    "noise": -37,
+    "light": 13,
+    "rain": 242,
+    "windspeed": 54.82,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -16.96180401,
+     0.881534
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.680558,
+    "lon": -15.68445656,
+    "temperature": 21,
+    "humidity": 0.66,
+    "noise": -14,
+    "light": 29,
+    "rain": 551,
+    "windspeed": 12.19,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -15.68445656,
+     0.680558
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.32461599999999996,
+    "lon": -3.188043983,
+    "temperature": 25,
+    "humidity": 0.3,
+    "noise": -16,
+    "light": 10,
+    "rain": 187,
+    "windspeed": 11.12,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.188043983,
+     0.32461599999999996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.992067,
+    "lon": -10.96073131,
+    "temperature": 21,
+    "humidity": 0.53,
+    "noise": -26,
+    "light": 16,
+    "rain": 211,
+    "windspeed": 14.69,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.96073131,
+     0.992067
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.812639,
+    "lon": -55.44711677,
+    "temperature": 17,
+    "humidity": 0.79,
+    "noise": 0,
+    "light": 5,
+    "rain": 642,
+    "windspeed": 11.48,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -55.44711677,
+     0.812639
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.22590300000000002,
+    "lon": -34.03687368,
+    "temperature": 19,
+    "humidity": 0.67,
+    "noise": -17,
+    "light": 0,
+    "rain": 363,
+    "windspeed": 25.41,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -34.03687368,
+     0.22590300000000002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.506357,
+    "lon": -24.96469811,
+    "temperature": 19,
+    "humidity": 0.92,
+    "noise": -33,
+    "light": 0,
+    "rain": 509,
+    "windspeed": 34.52,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -24.96469811,
+     0.506357
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.841616,
+    "lon": -9.765805128,
+    "temperature": 24,
+    "humidity": 0.9,
+    "noise": -22,
+    "light": 3,
+    "rain": 362,
+    "windspeed": 31.62,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.765805128,
+     0.841616
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.5282180000000001,
+    "lon": -7.508222694,
+    "temperature": 22,
+    "humidity": 0.52,
+    "noise": -35,
+    "light": 20,
+    "rain": 262,
+    "windspeed": 3.4,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.508222694,
+     0.5282180000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.988136,
+    "lon": -25.90167814,
+    "temperature": 21,
+    "humidity": 0.17,
+    "noise": -46,
+    "light": 0,
+    "rain": 535,
+    "windspeed": 0.65,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -25.90167814,
+     0.988136
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.727809,
+    "lon": -12.97126059,
+    "temperature": 21,
+    "humidity": 0.32,
+    "noise": -42,
+    "light": 13,
+    "rain": 355,
+    "windspeed": 20.24,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.97126059,
+     0.727809
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.646046,
+    "lon": -56.00945398,
+    "temperature": 16,
+    "humidity": 0.37,
+    "noise": -47,
+    "light": 5,
+    "rain": 472,
+    "windspeed": 23.87,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -56.00945398,
+     0.646046
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.8463149999999999,
+    "lon": -2.913371575,
+    "temperature": 15,
+    "humidity": 0.71,
+    "noise": -16,
+    "light": 13,
+    "rain": 551,
+    "windspeed": 31.31,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.913371575,
+     0.8463149999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.686467,
+    "lon": -0.375047267,
+    "temperature": 21,
+    "humidity": 0.04,
+    "noise": -45,
+    "light": 3,
+    "rain": 498,
+    "windspeed": 4.42,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.375047267,
+     0.686467
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.311012,
+    "lon": -3.166632003,
+    "temperature": 15,
+    "humidity": 0.38,
+    "noise": -26,
+    "light": 29,
+    "rain": 390,
+    "windspeed": 30.55,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.166632003,
+     0.311012
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.854601,
+    "lon": -68.49067352,
+    "temperature": 12,
+    "humidity": 0.67,
+    "noise": -27,
+    "light": 32,
+    "rain": 376,
+    "windspeed": 18.73,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.49067352,
+     0.854601
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.201232,
+    "lon": -2.893628767,
+    "temperature": 18,
+    "humidity": 0.29,
+    "noise": -31,
+    "light": 31,
+    "rain": 416,
+    "windspeed": 8.34,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.893628767,
+     0.201232
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.256764,
+    "lon": -5.363688133,
+    "temperature": 16,
+    "humidity": 0.71,
+    "noise": -15,
+    "light": 19,
+    "rain": 447,
+    "windspeed": 1.8,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.363688133,
+     0.256764
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.560956,
+    "lon": -19.27297262,
+    "temperature": 15,
+    "humidity": 0.91,
+    "noise": -35,
+    "light": 11,
+    "rain": 221,
+    "windspeed": 26.94,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -19.27297262,
+     0.560956
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.922119,
+    "lon": -29.35091492,
+    "temperature": 22,
+    "humidity": 0.82,
+    "noise": -18,
+    "light": 23,
+    "rain": 371,
+    "windspeed": 8.18,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -29.35091492,
+     0.922119
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.225573,
+    "lon": -12.75057878,
+    "temperature": 14,
+    "humidity": 0.96,
+    "noise": -3,
+    "light": 23,
+    "rain": 226,
+    "windspeed": 28.24,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.75057878,
+     0.225573
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.821292,
+    "lon": -6.541939198,
+    "temperature": 19,
+    "humidity": 0.35,
+    "noise": -47,
+    "light": 31,
+    "rain": 335,
+    "windspeed": 38.81,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -6.541939198,
+     0.821292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.791474,
+    "lon": -5.233615806,
+    "temperature": 21,
+    "humidity": 0.21,
+    "noise": -6,
+    "light": 26,
+    "rain": 236,
+    "windspeed": 7.56,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.233615806,
+     0.791474
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.311276,
+    "lon": -32.64469269,
+    "temperature": 18,
+    "humidity": 0.18,
+    "noise": -43,
+    "light": 18,
+    "rain": 289,
+    "windspeed": 2.17,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -32.64469269,
+     0.311276
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.614193,
+    "lon": -0.672151378,
+    "temperature": 20,
+    "humidity": 0.4,
+    "noise": -5,
+    "light": 24,
+    "rain": 494,
+    "windspeed": 2.77,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.672151378,
+     0.614193
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.511688,
+    "lon": -28.00308354,
+    "temperature": 21,
+    "humidity": 0.97,
+    "noise": -30,
+    "light": 6,
+    "rain": 676,
+    "windspeed": 12.71,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -28.00308354,
+     0.511688
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.426785,
+    "lon": -38.02205157,
+    "temperature": 14,
+    "humidity": 0.48,
+    "noise": -28,
+    "light": 2,
+    "rain": 484,
+    "windspeed": 24.73,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -38.02205157,
+     0.426785
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.945715,
+    "lon": -27.80137137,
+    "temperature": 13,
+    "humidity": 0.12,
+    "noise": -45,
+    "light": 22,
+    "rain": 266,
+    "windspeed": 32.14,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -27.80137137,
+     0.945715
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.094467,
+    "lon": -18.10700509,
+    "temperature": 22,
+    "humidity": 0.13,
+    "noise": -13,
+    "light": 32,
+    "rain": 636,
+    "windspeed": 17.01,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -18.10700509,
+     0.094467
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.28382399999999997,
+    "lon": -1.396261582,
+    "temperature": 23,
+    "humidity": 0.15,
+    "noise": -19,
+    "light": 31,
+    "rain": 332,
+    "windspeed": 49.91,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -1.396261582,
+     0.28382399999999997
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.760679,
+    "lon": -18.65206883,
+    "temperature": 21,
+    "humidity": 0.43,
+    "noise": -4,
+    "light": 9,
+    "rain": 550,
+    "windspeed": 28.74,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -18.65206883,
+     0.760679
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.403941,
+    "lon": -4.940074168,
+    "temperature": 25,
+    "humidity": 0.47,
+    "noise": -40,
+    "light": 9,
+    "rain": 438,
+    "windspeed": 7.67,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.940074168,
+     0.403941
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.296793,
+    "lon": -2.9911128839999996,
+    "temperature": 17,
+    "humidity": 0.33,
+    "noise": -23,
+    "light": 5,
+    "rain": 298,
+    "windspeed": 24.07,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.9911128839999996,
+     0.296793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.698236,
+    "lon": -12.8756856,
+    "temperature": 18,
+    "humidity": 0.53,
+    "noise": -15,
+    "light": 6,
+    "rain": 177,
+    "windspeed": 0.98,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.8756856,
+     0.698236
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.390654,
+    "lon": -54.3108189,
+    "temperature": 22,
+    "humidity": 0.68,
+    "noise": -9,
+    "light": 8,
+    "rain": 384,
+    "windspeed": 10.27,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -54.3108189,
+     0.390654
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.210936,
+    "lon": -2.8251099969999998,
+    "temperature": 17,
+    "humidity": 0.17,
+    "noise": -39,
+    "light": 30,
+    "rain": 507,
+    "windspeed": 8.43,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8251099969999998,
+     0.210936
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.802595,
+    "lon": -5.838169262999999,
+    "temperature": 16,
+    "humidity": 0.33,
+    "noise": -45,
+    "light": 23,
+    "rain": 455,
+    "windspeed": 47.0,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -5.838169262999999,
+     0.802595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.060988,
+    "lon": -14.495341,
+    "temperature": 18,
+    "humidity": 0.08,
+    "noise": -42,
+    "light": 29,
+    "rain": 301,
+    "windspeed": 5.43,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -14.495341,
+     0.060988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.22990500000000003,
+    "lon": -40.80053782,
+    "temperature": 20,
+    "humidity": 0.71,
+    "noise": -18,
+    "light": 12,
+    "rain": 481,
+    "windspeed": 56.06,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -40.80053782,
+     0.22990500000000003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.490126,
+    "lon": -0.39379974100000004,
+    "temperature": 12,
+    "humidity": 0.94,
+    "noise": -19,
+    "light": 28,
+    "rain": 649,
+    "windspeed": 27.97,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.39379974100000004,
+     0.490126
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.349162,
+    "lon": -7.858713204,
+    "temperature": 14,
+    "humidity": 0.76,
+    "noise": -35,
+    "light": 13,
+    "rain": 325,
+    "windspeed": 1.03,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.858713204,
+     0.349162
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.078511,
+    "lon": -14.89264769,
+    "temperature": 22,
+    "humidity": 0.56,
+    "noise": -45,
+    "light": 25,
+    "rain": 326,
+    "windspeed": 2.58,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -14.89264769,
+     0.078511
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.218612,
+    "lon": -61.41450411,
+    "temperature": 20,
+    "humidity": 0.73,
+    "noise": -30,
+    "light": 18,
+    "rain": 130,
+    "windspeed": 46.43,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -61.41450411,
+     0.218612
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.14330299999999999,
+    "lon": -3.7951634110000003,
+    "temperature": 13,
+    "humidity": 0.88,
+    "noise": -40,
+    "light": 28,
+    "rain": 319,
+    "windspeed": 8.76,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.7951634110000003,
+     0.14330299999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.534925,
+    "lon": -0.37605450100000004,
+    "temperature": 19,
+    "humidity": 0.03,
+    "noise": -43,
+    "light": 4,
+    "rain": 267,
+    "windspeed": 0.28,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.37605450100000004,
+     0.534925
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.931884,
+    "lon": -2.211593072,
+    "temperature": 13,
+    "humidity": 0.55,
+    "noise": -43,
+    "light": 7,
+    "rain": 234,
+    "windspeed": 6.28,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.211593072,
+     0.931884
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.633156,
+    "lon": -23.86547168,
+    "temperature": 23,
+    "humidity": 0.56,
+    "noise": -15,
+    "light": 11,
+    "rain": 184,
+    "windspeed": 0.81,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -23.86547168,
+     0.633156
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.465855,
+    "lon": -0.36963723,
+    "temperature": 20,
+    "humidity": 0.34,
+    "noise": -33,
+    "light": 21,
+    "rain": 121,
+    "windspeed": 13.82,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.36963723,
+     0.465855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.918064,
+    "lon": -9.141325999,
+    "temperature": 14,
+    "humidity": 0.83,
+    "noise": -1,
+    "light": 24,
+    "rain": 244,
+    "windspeed": 8.74,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.141325999,
+     0.918064
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.154228,
+    "lon": -2.8701288010000003,
+    "temperature": 23,
+    "humidity": 0.35,
+    "noise": -20,
+    "light": 7,
+    "rain": 658,
+    "windspeed": 6.01,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.8701288010000003,
+     0.154228
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.403305,
+    "lon": -31.53793921,
+    "temperature": 19,
+    "humidity": 0.86,
+    "noise": -23,
+    "light": 13,
+    "rain": 336,
+    "windspeed": 11.88,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -31.53793921,
+     0.403305
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.61132,
+    "lon": -3.3785489330000003,
+    "temperature": 19,
+    "humidity": 0.95,
+    "noise": -5,
+    "light": 4,
+    "rain": 516,
+    "windspeed": 2.82,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -3.3785489330000003,
+     0.61132
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.567639,
+    "lon": -14.14585312,
+    "temperature": 21,
+    "humidity": 0.69,
+    "noise": -7,
+    "light": 11,
+    "rain": 428,
+    "windspeed": 18.77,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -14.14585312,
+     0.567639
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.074158,
+    "lon": -12.56801706,
+    "temperature": 21,
+    "humidity": 0.74,
+    "noise": -22,
+    "light": 19,
+    "rain": 474,
+    "windspeed": 27.38,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.56801706,
+     0.074158
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.124893,
+    "lon": -2.4023309630000003,
+    "temperature": 23,
+    "humidity": 0.91,
+    "noise": -19,
+    "light": 21,
+    "rain": 248,
+    "windspeed": 0.91,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -2.4023309630000003,
+     0.124893
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.811055,
+    "lon": -9.561001181,
+    "temperature": 19,
+    "humidity": 0.76,
+    "noise": -41,
+    "light": 8,
+    "rain": 460,
+    "windspeed": 27.33,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.561001181,
+     0.811055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.869483,
+    "lon": -0.768475013,
+    "temperature": 16,
+    "humidity": 0.6,
+    "noise": -16,
+    "light": 31,
+    "rain": 463,
+    "windspeed": 0.14,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.768475013,
+     0.869483
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.342497,
+    "lon": -15.34160781,
+    "temperature": 22,
+    "humidity": 0.08,
+    "noise": -41,
+    "light": 16,
+    "rain": 312,
+    "windspeed": 3.24,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -15.34160781,
+     0.342497
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.106279,
+    "lon": -39.84687265,
+    "temperature": 12,
+    "humidity": 0.36,
+    "noise": -10,
+    "light": 4,
+    "rain": 206,
+    "windspeed": 39.44,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -39.84687265,
+     0.106279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.25414499999999995,
+    "lon": -4.576260718,
+    "temperature": 25,
+    "humidity": 0.5,
+    "noise": -47,
+    "light": 15,
+    "rain": 126,
+    "windspeed": 2.38,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.576260718,
+     0.25414499999999995
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.45293100000000003,
+    "lon": -18.28875464,
+    "temperature": 18,
+    "humidity": 0.87,
+    "noise": -4,
+    "light": 24,
+    "rain": 321,
+    "windspeed": 21.67,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -18.28875464,
+     0.45293100000000003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.722716,
+    "lon": -12.62004465,
+    "temperature": 19,
+    "humidity": 0.94,
+    "noise": -4,
+    "light": 31,
+    "rain": 267,
+    "windspeed": 1.92,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.62004465,
+     0.722716
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.696543,
+    "lon": -50.07160911,
+    "temperature": 20,
+    "humidity": 0.51,
+    "noise": -47,
+    "light": 26,
+    "rain": 547,
+    "windspeed": 32.52,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -50.07160911,
+     0.696543
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.6604760000000001,
+    "lon": -60.87593915,
+    "temperature": 16,
+    "humidity": 0.87,
+    "noise": -50,
+    "light": 30,
+    "rain": 436,
+    "windspeed": 9.07,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -60.87593915,
+     0.6604760000000001
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.8668049999999999,
+    "lon": -4.359977726,
+    "temperature": 12,
+    "humidity": 0.49,
+    "noise": -33,
+    "light": 17,
+    "rain": 132,
+    "windspeed": 20.06,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -4.359977726,
+     0.8668049999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.632422,
+    "lon": -0.751701002,
+    "temperature": 22,
+    "humidity": 0.31,
+    "noise": -7,
+    "light": 11,
+    "rain": 116,
+    "windspeed": 14.28,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.751701002,
+     0.632422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.796247,
+    "lon": -9.836894551,
+    "temperature": 18,
+    "humidity": 0.3,
+    "noise": -5,
+    "light": 15,
+    "rain": 600,
+    "windspeed": 47.93,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -9.836894551,
+     0.796247
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.32531,
+    "lon": -26.67998719,
+    "temperature": 14,
+    "humidity": 0.86,
+    "noise": -14,
+    "light": 23,
+    "rain": 299,
+    "windspeed": 4.13,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -26.67998719,
+     0.32531
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.131152,
+    "lon": -23.49584445,
+    "temperature": 25,
+    "humidity": 0.94,
+    "noise": -4,
+    "light": 5,
+    "rain": 558,
+    "windspeed": 2.19,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -23.49584445,
+     0.131152
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.25858600000000004,
+    "lon": -18.02532272,
+    "temperature": 12,
+    "humidity": 0.13,
+    "noise": -4,
+    "light": 10,
+    "rain": 438,
+    "windspeed": 0.0,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -18.02532272,
+     0.25858600000000004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.093579,
+    "lon": -7.1004272770000005,
+    "temperature": 14,
+    "humidity": 0.56,
+    "noise": -42,
+    "light": 29,
+    "rain": 241,
+    "windspeed": 23.13,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -7.1004272770000005,
+     0.093579
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.005446,
+    "lon": -0.659036171,
+    "temperature": 16,
+    "humidity": 0.83,
+    "noise": -3,
+    "light": 4,
+    "rain": 151,
+    "windspeed": 8.6,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.659036171,
+     0.005446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.671945,
+    "lon": -8.241653033,
+    "temperature": 13,
+    "humidity": 0.73,
+    "noise": 0,
+    "light": 13,
+    "rain": 126,
+    "windspeed": 7.21,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -8.241653033,
+     0.671945
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.274621,
+    "lon": -0.0060914969999999995,
+    "temperature": 15,
+    "humidity": 0.18,
+    "noise": -9,
+    "light": 18,
+    "rain": 471,
+    "windspeed": 7.23,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -0.0060914969999999995,
+     0.274621
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.632394,
+    "lon": -10.43339697,
+    "temperature": 19,
+    "humidity": 0.3,
+    "noise": -39,
+    "light": 16,
+    "rain": 133,
+    "windspeed": 1.98,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -10.43339697,
+     0.632394
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.463509,
+    "lon": -12.75320301,
+    "temperature": 21,
+    "humidity": 0.15,
+    "noise": -3,
+    "light": 3,
+    "rain": 457,
+    "windspeed": 25.57,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -12.75320301,
+     0.463509
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.441882,
+    "lon": -14.0606215,
+    "temperature": 24,
+    "humidity": 0.84,
+    "noise": -6,
+    "light": 3,
+    "rain": 180,
+    "windspeed": 5.18,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -14.0606215,
+     0.441882
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.294112,
+    "lon": -36.66943308,
+    "temperature": 14,
+    "humidity": 0.09,
+    "noise": -27,
+    "light": 2,
+    "rain": 379,
+    "windspeed": 38.86,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -36.66943308,
+     0.294112
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.730741,
+    "lon": -17.92232631,
+    "temperature": 18,
+    "humidity": 0.8,
+    "noise": -23,
+    "light": 8,
+    "rain": 511,
+    "windspeed": 26.78,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -17.92232631,
+     0.730741
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.149112,
+    "lon": -24.63965054,
+    "temperature": 17,
+    "humidity": 0.41,
+    "noise": -33,
+    "light": 1,
+    "rain": 139,
+    "windspeed": 15.78,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -24.63965054,
+     0.149112
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.725295,
+    "lon": -21.90675734,
+    "temperature": 18,
+    "humidity": 0.68,
+    "noise": -21,
+    "light": 30,
+    "rain": 551,
+    "windspeed": 6.13,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -21.90675734,
+     0.725295
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.12667799999999999,
+    "lon": -57.68993299,
+    "temperature": 23,
+    "humidity": 0.05,
+    "noise": -27,
+    "light": 9,
+    "rain": 136,
+    "windspeed": 26.18,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -57.68993299,
+     0.12667799999999999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sensorId": "env2184000",
+    "timestamp":  ISODate("2019-04-28T04:35:23.000Z"),
+    "lat": 0.486084,
+    "lon": -14.01792428,
+    "temperature": 25,
+    "humidity": 0.93,
+    "noise": -32,
+    "light": 1,
+    "rain": 648,
+    "windspeed": 25.65,
+    "city": "Cuenca"
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -14.01792428,
+     0.486084
+    ]
+   }
+  }
+ ]
+};
